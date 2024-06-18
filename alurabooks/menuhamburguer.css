@@ -1,0 +1,17 @@
+.menu__hamburguer{
+    position: relative;
+}
+
+.menu__hamburguer-ul{
+    display: none;
+    position: absolute;
+    top: 100%;
+}
+
+.menu__hamburguer-input:checked ~ .menu__hamburguer-ul{
+    display: block;
+}
+
+.menu__hamburguer-input{
+    display: none;
+}
