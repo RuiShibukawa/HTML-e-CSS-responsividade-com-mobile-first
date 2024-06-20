@@ -3,7 +3,7 @@
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
 @import url("styles/contato.css");
-@import url("styles/rodapé.css");
+@import url("styles/rodape.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -16,6 +16,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+    --verde-mint: #5DEBD7;
 }
 
 body {
